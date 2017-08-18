@@ -17,3 +17,4 @@ print('...')
 print('total de personagens => '+str(len(personagens)))
 
 
+
