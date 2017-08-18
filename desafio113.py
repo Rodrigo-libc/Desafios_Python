@@ -2,3 +2,4 @@
 #em variáveis
 mensagem = input('Digite algo .. ')
 print(mensagem)
+
