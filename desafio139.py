@@ -6,3 +6,4 @@ def pessoa(primeiro,segundo,idade=''):
        #retorna o dicionário
 nome = pessoa('rodrigo','freitas',22) # nome recebe a função
 print(nome)
+
