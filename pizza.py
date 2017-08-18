@@ -5,4 +5,3 @@ def fazer_pizza(tamanho,*coberturas):
     for p in coberturas:
         print('-'+p)
         
-
