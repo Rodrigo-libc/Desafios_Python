@@ -4,3 +4,4 @@ def nomes(primeiro,meio,ultimo):
 result = nomes('rodrigo','albuquerque','freitas')
 print(result) # resultado de uma função que retorna o nome completo
 
+
