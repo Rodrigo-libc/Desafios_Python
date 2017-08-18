@@ -18,3 +18,5 @@ print('\n---Resultados da Enquete---')
 for n, r in respostas.items():
     print(n+' gostaria de escalar '+r)
 
+
+    
