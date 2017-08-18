@@ -5,4 +5,4 @@ if altura >= 36:
 else:
     print('você e muito baixo para andar nesse brinquedo, que idade você tem ? ')
 
-    
+   
