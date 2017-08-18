@@ -3,3 +3,4 @@ print(animais)
 while 'gato' in animais:
     animais.remove('gato')
 print(animais)
+
