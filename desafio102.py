@@ -13,4 +13,5 @@ for nome in linguagens_favoritas.keys():
     if nome in amigos:
         print('Oi '+nome.title()+
                 ', essa e sua linguagem favorita '+linguagens_favoritas[nome].title()+'!')
+        
     
