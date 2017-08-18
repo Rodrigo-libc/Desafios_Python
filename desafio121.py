@@ -6,3 +6,5 @@ while mensagem != 'sair':
     mensagem =input(m1)
     if mensagem != 'sair':
         print(mensagem)
+
+        
