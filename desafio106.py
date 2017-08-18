@@ -8,3 +8,4 @@ linguagens_favoritas ={
 }
 for linguagem in set(linguagens_favoritas.values()):
     print(linguagem.title())
+    
