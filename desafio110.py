@@ -7,5 +7,6 @@ pizza ={
 print('você pediu uma Pizza '+pizza['pizza']+' com as seguintes coberturas')
 for c in pizza['coberturas']:
     print('\t => '+c)
+    
 
 
