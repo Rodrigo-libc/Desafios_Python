@@ -5,3 +5,4 @@ def nome_users(nomes): #função com parâmetro nomes
 lista_users = ['rodrigo','ana','lucas']# lista com os nomes dos usuários
 nome_users(lista_users) # foi passado a lista com os nomes na função.
 
+
