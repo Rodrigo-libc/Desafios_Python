@@ -6,4 +6,5 @@ personagens = [personagem1,personagem2,personagem3]
 
 for personagem in personagens:
     print(personagem)
+    
 
