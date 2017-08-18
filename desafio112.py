@@ -18,3 +18,5 @@ for username, info_user in users.items():
     print('\t Nome completo:'+nome_completo.title())
     print('\t Localização:'+local.title())
 
+
+    
