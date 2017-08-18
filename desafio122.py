@@ -11,4 +11,3 @@ while ativo:
         ativo = False
     else:
         print(mensagem)
-
