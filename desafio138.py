@@ -7,3 +7,4 @@ print(nome)
 
 for i,n in nome.items(): # loop de teste e.e x:D
     print('\n'+i+':',n)
+    
