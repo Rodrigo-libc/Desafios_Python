@@ -9,3 +9,4 @@ def construir(primeiro,ultimo, **info_user):
 user_perfil = construir('rodrigo','freitas',
                         local = 'recife', trabalho = 'redes')
 print(user_perfil)
+
