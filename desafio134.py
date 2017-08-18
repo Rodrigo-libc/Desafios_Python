@@ -4,4 +4,3 @@ def descri(nome_animal,tipo_animal='cachorro'):
 descri(nome_animal='boby')
 
 
-
