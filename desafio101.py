@@ -4,4 +4,4 @@ linguagens_favoritas= {
 'leo':'c#',
 }
 for nome in linguagens_favoritas.keys():
-    print(nome.title())
+    print(nome.title()) 
