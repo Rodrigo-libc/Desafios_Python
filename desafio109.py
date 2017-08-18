@@ -16,3 +16,4 @@ for per in personagens[0:3]:
 for per2 in personagens[0:5]:
     print(per2)
 print('...')    
+
