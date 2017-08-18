@@ -4,4 +4,3 @@ while contador < 10:
     if contador % 2 == 0:
         continue
     print(contador)
-
