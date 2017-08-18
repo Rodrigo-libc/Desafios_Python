@@ -14,4 +14,3 @@ print('\nOs usuários a seguir foram confirmados: ')
 for user_conf in sorted(users_conf):
      print(user_conf.title())
 
-
