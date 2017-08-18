@@ -8,3 +8,4 @@ def fazer_pizza(*coberturas):
         mesmo se na chamada da função, tivesse apenas 1 valor"""
 
 fazer_pizza('tomate','queijo','calabresa','pimenta')
+
