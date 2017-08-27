@@ -436,6 +436,52 @@ por ultimo chame as duas funções e mostre na tela o resultado explique.
 144:Faça como o 143, porem com 2 argumentos, tamanho da pizza, e o segundo sera as coberturas usando (*) em seguida faça um loop for
 para mostrar o resultado, chame a função e mostre na tela explique.
 
+145:Crie um script com 3 argumentos primeiro nome e segundo, o 3 vai ser as informações do user,crie um dicionário vazio, em seguida
+adicione primeiro e segundo nome ao dicionário, faça um loop for use items(),onde o dicionário vai receber ['chave']= valor retorne
+o dicionário, chame a função e adicione primeiro e segundo nome,em seguida local e trabalho. obs: o ultimo argumento vc usará args(**)
+explique.
+
+146:Crie um modulo com uma função depois import ele para seu script, ao qual deverar mostrar tamanho da pizza, e suas coberturas esse
+desafio serão 2 scripts explique.
+
+147:Desafio extra: crie um script que as formas de importação de modulos explique.
+
+							
+				     capt:9 Classes, Python orientado a objetos
+
+
+148:Crie com uma classe com parâmetros para um cachorro,nome idade, faça 3 funções que vão receber essas definições,1 fala que ele
+esta sentado, 2 fala que ele esta por toda parte, 3 fala que ele esta rolando, depois crie duas instancias,cada instancia sera um
+cachorro diferente, em seguida use as funções para cada cachorro e mostre na tela explique.
+
+149:Crie uma classe para um carro, que mostre marca modelo e ano explique.
+
+150:Faça como o 149,porem adicione um odómetro de 0 km, depois mostre o resultado falando que o carro rodou 0 km explique.
+
+151:Crie uma função na sua classe para atualizar o odômetro, depois adicione o valor dele para 23 km, mostre na tela no resultado 
+explique.
+
+152:Crie uma condição na sua função que atualiza o odômetro, se quilometros for >= quilômetros então, odômetro receberá os quilômetros
+senão, mostrará uma mensagem caso alguém tente reverter o valor explique.
+
+153:Na sua classe crie uma nova instância, e adicione um novo carro, crie uma função que incrementa uma nova quilômetragem, ela deverá
+mudar é receberá um valor de 100, mostre o resultado na tela com os 2 valores explique.
+
+154:Crie uma nossa classe para a bateria do seu carro, onde a classe filho deverá herda uma mensagem que mostre a bateria do carro
+ex:"O carro tem 70-kWh de bateria." por fim mostre o resultado na tela explique.
+
+155:Crie uma função com uma condição na classe bateria(),se o tamanho da bateria== 70: variável = 240 para caso contrario faça um elif
+que receberar == 270, faça uma variável que receberá uma mensagem, para ser exibida de acordo com a condição,
+ex:"Esse carro pode ir aproximadamente 240 milhas com uma carga total", depois mostre o resultado na tela explique.
+
+156:Crie um modulo para importar sua classe carro depois mostre os resultados na tela obs: são 2 arquivos modulo + desafio explique.
+
+157:Faça como o 156, Crie outro modulo que contenha a classe Pai e filho <==> import o modulo e a classe filho, mostre o resultado
+da bateria, e das milhas que o carro pode percorrer com a carga total,use (from import) obs: são 2 arquivos modulo + desafio explique.
+
+158:explique sobre classes de stilo.
+
+
 
 
 
