@@ -1,6 +1,6 @@
 # Desafios_Python
-                                     Desafios Python
-                                         capt. 1,2
+                                                 Desafios Python
+                                                   capt. 1,2
 
 1: Crie um script que contenha 2 variáveis com strings junte as 
 duas variáveis usando concatenação, e exiba o resultado na tela. 
@@ -481,9 +481,51 @@ da bateria, e das milhas que o carro pode percorrer com a carga total,use (from 
 
 158:explique sobre classes de estilo.
 
+  					 Capt:10 Arquivos e Exceções
 
 
+159:Crie um script que abra um arquivo de texto, é mostre o conteúdo escrito explique.
 
+160:Armazene seu arquivo de texto em uma variável, depois mostre o seu conteudo com um loop for explique.
+
+161:Faça como o 160, porem use a função rstrip() pra remover as linhas em branco explique.
+
+162:Faça com que seu arquivo de texto possa manter o acesso fora do bloco, é mostre o resultado use readlines() explique.
+
+163:Edite o arquivo de texto para que ele Mostre as linhas do arquivo em sequencia um a frente do outro,é mostre a quantidade
+de caracters que o arquivo possui explique.
+
+164:Faça com que seu script mostre as primeiras 50 casas decimais, para casos de muitas linhas explique.
+
+165:No seu script coloque sua data de aniversario nos 50 primeiros digitos, ex: 080595 faça uma condição se sua data de
+aniversario estiver nas 50 primeiras linhas print, seu aniversario aparece nos primeiros digitos senão,print que ela não 
+aparece. use input() para digitar a data explique.
+
+166:Crie um script que escreve em um arquivo de texto vazio, a seguinte mensagem "I love you Programming" explique.
+
+167:Faça como 166, add mais uma linha ao arquivo com quebra de linha \n explique.
+
+168:Adicione mais duas mensagens ao arquivo de forma que sejam anexadas explique.
+
+169:Crie um script print(5/0) vai acontecer o error ZeroDivisionError, use try é except para que mostre uma mensagem 
+"você não pode dividir esses números".. ao invez da mensagem de error explique.
+
+170:Desafio extra: Crie uma pequena calculadora, para a divivisão de 2 números usando o loop while, se você dividir 5/0
+por exemplo, vai ocorrer o error que você viu antes, faça com que seja exibida uma mensagem para quando ocorrer esse error
+ex: "você não pode dividir o 0 " se a divisão ocorrer corretamente então mostrarar o resultado da divisão, explique.
+
+171:Crie um script que tente ler um arquivo que não exista, exemplo rodrigo.txt vai ocorrer o error FileNotFoundError: use
+try except para mostrar uma mensagem falando que o arquivo.txt não existe explique.
+
+
+172:Crie um script que tenha uma string ex: " Alice no País das Maravilhas " use o split() para tornar cada palavra uma
+string na lista explique.
+
+173:Crie um script com um arquivo de texto, faça uma exceção para caso ele não exista mostrar a msg, crie um bloco else para
+receber o conteudo do arquivo em seguida mostre uma mensagem que imforme ex: o arquivo.txt tem 234 linhas. use split()
+explique
+
+174: Faça como o 173, mais nesse caso criando uma função def() explique.
 
  
 
